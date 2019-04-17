@@ -1,5 +1,2 @@
-# hello-world
-Some description and another description
-and a new line
-and something interesting
-and what about this one?
+# Naive Suffix Array
+In this class I used the bubble sort algorithm to build a naive Suffix Array.
